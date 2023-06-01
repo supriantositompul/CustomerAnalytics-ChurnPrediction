@@ -22,24 +22,27 @@ Membuat model Machine Learning untuk memprediksi apakah pemohon dapat membayar p
 ## Dataset
 Terdapat 6 dataset yang akan di analisis dan setiap dataset memiliki fitur-fitur yang banyak, sehingga berdasarkan dataset tersebut kami melakukan eksplorasi untuk mendapatkan fitur-fitur yang penting. Kami melakukan eksplorasi dari setiap dataset kemudian mengambil fitur-fitur yang informatif dari setiap dataset kemudian dilakukan aggregation ke dataset lain yang sudah di pilih juga fiturnya.
 
-<img width="338" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/d478f799-1fff-433b-a5ee-86d48d3e8e91">
+<img width="338" alt="Screenshot 2023-06-01 154809" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/f9ab39ac-08cf-4f43-a6dc-cdc5e95acd2d">
+
 
 ## Data Understanding
-<img width="613" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/26b8683b-7561-4b71-8261-4d799bc8f301">
-<img width="587" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/6a96658e-b845-4d7e-a024-c8f9133716e0">
-<img width="591" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/804b054b-6611-4c19-93cd-f6b2ad426679">
+<img width="353" alt="Screenshot 2023-06-01 155053" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/023d22bf-c9a0-4112-977a-4f6abc1cf9e5">
+<img width="613" alt="Screenshot 2023-06-01 155106" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/045fff3e-c5c7-4d39-85b5-1583c6b606c0">
+<img width="557" alt="Screenshot 2023-06-01 155124" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/caf11ee6-c131-44a2-8850-2824efb1daf1">
+<img width="587" alt="Screenshot 2023-06-01 155131" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/04bdb5fb-46f2-4673-a6f1-e8f5e962c549">
+<img width="591" alt="Screenshot 2023-06-01 155140" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/a5e93251-05af-4d94-9686-4403dd34b2a2">
 
 ## Feature Engineering
-<img width="608" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/da5d37ed-cdc0-497d-bc1a-52819c81cf7b">
+<img width="525" alt="Screenshot 2023-06-01 155207" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/423a8eb0-e648-4c20-9eff-405318471bf5">
 
 ## Data Modeling
-<img width="604" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/f9a2b413-61cd-4ef0-bb5f-d0b3c5e5a3b2">
+<img width="604" alt="Screenshot 2023-06-01 155440" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/0d415d64-ebcc-4ab3-9e53-5863718b1897">
 
 ## Model Selection
 Setelah melakukan evaluasi dan perbandingan dengan model lain, kami mendapatkan model **LightGBM** dengan performa yang lebih baik yang ditandai dengan Recall, Precission, dan F1-Score yang lebih baik. Berdasarkan uji ROC-AUC dan setelah divalidasi dengan threshold **LightGBM** tetap memiliki kinerja model yang lebih baik dibandingkan model lain. 
 
 ## Predict to Actual
-<img width="370" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/ea9e7e4b-a564-429a-afb2-898799d7d1fc">
+<img width="370" alt="Screenshot 2023-06-01 160827" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/e64afa1a-074a-4c48-8ebb-b8c12ddd24df">
 
 `Insight dari hasil prediksi dan aktual:`
 <br>
