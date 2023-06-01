@@ -1,4 +1,4 @@
-#  [Proyek] - Customer Analytics - Churn Prediction Home Credit
+#  [Final Project Studi Independen Startup Campus x Kampus Merdeka] | Customer Analytics - Churn Prediction Home Credit
 
 ## Tim The Revolutionaries
 🧞‍ Suprianto Dharma Sitompul - Institut Teknologi Del (Ketua Tim)
