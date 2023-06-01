@@ -21,6 +21,7 @@ Membuat model Machine Learning untuk memprediksi apakah pemohon dapat membayar p
 
 ## Dataset
 Terdapat 6 dataset yang akan di analisis dan setiap dataset memiliki fitur-fitur yang banyak, sehingga berdasarkan dataset tersebut kami melakukan eksplorasi untuk mendapatkan fitur-fitur yang penting. Kami melakukan eksplorasi dari setiap dataset kemudian mengambil fitur-fitur yang informatif dari setiap dataset kemudian dilakukan aggregation ke dataset lain yang sudah di pilih juga fiturnya.
+
 <img width="338" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/d478f799-1fff-433b-a5ee-86d48d3e8e91">
 
 ## Data Understanding
