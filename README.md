@@ -38,6 +38,14 @@ Terdapat 6 dataset yang akan di analisis dan setiap dataset memiliki fitur-fitur
 ## Model Selection
 Setelah melakukan evaluasi dan perbandingan dengan model lain, kami mendapatkan model **LightGBM** dengan performa yang lebih baik yang ditandai dengan Recall, Precission, dan F1-Score yang lebih baik. Berdasarkan uji ROC-AUC dan setelah divalidasi dengan threshold **LightGBM** tetap memiliki kinerja model yang lebih baik dibandingkan model lain. 
 
+## Predict to Actual
+<img width="370" alt="image" src="https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/ea9e7e4b-a564-429a-afb2-898799d7d1fc">
+
+`Insight dari hasil prediksi dan aktual:`
+<br>
+1. Terdapat 267 data yang terprediksi dengan benar, baik sebagai orang yang sanggup membayar (prediksi 1 dan aktual 1) maupun tidak sanggup membayar (prediksi 0 dan aktual 0).
+2. Terdapat 33 data yang terprediksi salah, yaitu 10 data yang salah terprediksi sebagai orang yang tidak sanggup membayar padahal aktualnya sanggup (prediksi 1 dan aktual 0), dan 23 data yang salah terprediksi sebagai orang yang sanggup membayar padahal aktualnya tidak sanggup (prediksi 0 dan aktual 1).
+3. Model memiliki akurasi sebesar 90.0%, yang menunjukkan bahwa sebagian besar prediksi model sesuai dengan aktualnya.
 
 ## Insight from Dataset
 Berdasarkan dataset yang telah dieksplorasi, dapat diketahui bahwa persentase tertinggi dari pendidikan customer yang mengajukan pinjaman adalah Secondary/Secondary Special dengan persentase 71% dan diikuti dengan Higher Education dengan persentase 24.3%.
