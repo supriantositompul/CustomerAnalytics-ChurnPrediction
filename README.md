@@ -1,7 +1,8 @@
 #  [Proyek] - Customer Analytics - Churn Prediction Home Credit
 
 ## Tim The Revolutionaries
-🧞‍ Suprianto Dharma Sitompul - Institut Teknologi Del (Ketua Tim) 
+🧞‍ Suprianto Dharma Sitompul - Institut Teknologi Del (Ketua Tim)
+<br>
 🧞‍ Sri Indrayani - Universitas Brawijaya (Anggota) 
 🧞‍ Winona Timothea - Institut Teknologi Del (Anggota)
 🧞‍ Zalfa Nurjihan - Universitas Pendidikan Indonesia (Anggota)
