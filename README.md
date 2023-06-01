@@ -5,7 +5,7 @@
 <br>
 🧞‍ Sri Indrayani - Universitas Brawijaya (Anggota) 
 <br>
-🧞‍ Winona Timothea - Institut Teknologi Del (Anggota)
+🧞‍ Winona Timothea - Institut Teknologi Bandung (Anggota)
 <br>
 🧞‍ Zalfa Nurjihan - Universitas Pendidikan Indonesia (Anggota)
 
