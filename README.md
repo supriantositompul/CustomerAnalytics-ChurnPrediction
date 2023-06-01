@@ -52,6 +52,10 @@ Berdasarkan dataset yang telah dieksplorasi, dapat diketahui bahwa persentase te
 
 Di sisi lain, mayoritas customer yang sanggup bayar memiliki jenis pekerjaan  Businessman beserta jumlah pendapatan yang tinggi dan jenis tempat tinggal customer adalah Rumah/Apartment dengan persentase 88.7%.
 
+## Dashboard 
+![The Revolutionaries_Dashboard_page-0001](https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/f2675090-384b-44fa-8632-88e34b418e33)
+![The Revolutionaries_Dashboard_page-0002](https://github.com/supriantositompul/CustomerAnalytics-ChurnPrediction/assets/71377466/9bae3b04-7f59-4dc7-a29c-175a3d68359f)
+
 ## Rekomendasi 
 1. Perusahaan Home Credit Group dapat memberikan penawaran baru berupa paket pinjaman pelajar dengan bunga yang rendah.
 2. Fokus pada segmen adult dan old karena berdasarkan data historis kedua rentang usia ini berpotensi tinggi churn.
