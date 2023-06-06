@@ -36,7 +36,7 @@ Terdapat 6 dataset yang akan di analisis dan setiap dataset memiliki fitur-fitur
 <img width="525" alt="Screenshot 2023-06-01 155207" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/423a8eb0-e648-4c20-9eff-405318471bf5">
 
 ## Data Modeling
-<img width="403" alt="image" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/681de3b6-4da2-48c3-957c-4125af3724da">
+<img width="403" alt="Screenshot 2023-06-06 211443" src="https://github.com/supriantositompul/Customer_Analytics-Churn_Prediction/assets/71377466/39da209e-8ae5-4ebf-a7d8-f6af41eef249">
 
 ## Model Selection
 Setelah melakukan evaluasi dan perbandingan dengan model lain, kami mendapatkan model **LightGBM** dengan performa yang lebih baik yang ditandai dengan Recall, Precission, dan F1-Score yang lebih baik. Berdasarkan uji ROC-AUC dan setelah divalidasi dengan threshold **LightGBM** tetap memiliki kinerja model yang lebih baik dibandingkan model lain. 
